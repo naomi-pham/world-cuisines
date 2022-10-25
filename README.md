@@ -1,7 +1,7 @@
 # React Recipe Searching App
 
-![Portfolio-Dark](https://raw.githubusercontent.com/naomi-pham/naomi-portfolio/main/public/assets/Screenshot%202022-10-11%2018.19.14.png)
-![Portfolio-Light](https://raw.githubusercontent.com/naomi-pham/naomi-portfolio/main/public/assets/Screenshot%202022-10-05%2015.54.46.png)
+![World-Cuisines](https://raw.githubusercontent.com/naomi-pham/world-cuisines/main/public/world-cuisines-2.png)
+![World-Cuisines-2](https://raw.githubusercontent.com/naomi-pham/world-cuisines/main/public/world-cuisines-3.png)
 
 ## Table of contents
 * [General info](#general-info)
