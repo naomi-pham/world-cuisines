@@ -1,5 +1,7 @@
 # React Recipe Searching App
 
+[Demo link](https://all-world-cuisines.netlify.app/)
+
 ![World-Cuisines](https://raw.githubusercontent.com/naomi-pham/world-cuisines/main/public/world-cuisines-2.png)
 
 ## Table of contents
