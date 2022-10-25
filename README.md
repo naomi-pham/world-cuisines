@@ -18,6 +18,9 @@ Project is created with:
 * ReactJS
 * TailwindCSS
 * DaisyUI
+
+### NPM install
+* [react-router](https://reactrouter.com/en/v6.3.0/getting-started/installation)
 	
 ## Setup
 To run this project, install it locally using npm:
